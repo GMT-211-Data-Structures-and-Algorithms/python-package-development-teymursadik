@@ -9,7 +9,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..')) # Sphinx'in modülünü bulmasını sağlar 
 
-project = 'GeoGeometry'
+project = 'GeoGeometry Package'
 copyright = '2026, sadık'
 author = 'sadık'
 release = '0.0.1'

@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Geometri Paketi documentation
+GeoGeometry Package Documentation
 =============================
 
 Add your content using ``reStructuredText`` syntax. See the
