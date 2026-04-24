@@ -1,5 +1,5 @@
-Modüller
-========
+Modules
+=======
 
 .. automodule:: geometry
    :members:

@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..')) # Sphinx'in modülünü bulmasını sağlar 
+sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'GeoGeometry Package'
 copyright = '2026, sadık'
